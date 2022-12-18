@@ -64,6 +64,55 @@ columns by name of the year, month, and day respectively
 # Exploratory Data Analysis - 
 
 **Movies vs TV shows**
+
 • Movies uploaded on Netflix are more than twice the TV Shows uploaded.
 • 30% of movies are released on Netflix.
 • 70% of movies added on Netflix were released earlier in a different mode.
+
+**On Year Basis**
+
+• TV shows are increasing continuously
+• The number of releases significantly increased after 2015 and dropped in
+2021 because of Covid 19.
+
+**On Month Basis**
+
+• From October to January, the maximum number of movies and TV
+shows were added.
+• Possible reason for that is, during this period of time events such 
+as Christmas, New Year and several holidays take place.
+
+**On Day Basis**
+
+• Maximum number of movies and TV shows added at the start 
+of the month followed by mid of month.
+
+**Worldwide Presence**
+
+• United States tops in the list of the maximum number of movies and TV
+shows, followed by India, the UK, and Japan.
+• 10th no. of the country is Turkey.
+
+**Ratings**
+
+• Maximum of the movies as well as TV shows are for
+matures only.
+• we can observe that the most-rated movie on Netflix is TV-MA
+and the least-rated movie on Netflix is UR.
+
+**Cast**
+
+• Anupam Kher top of the list of casts having a maximum
+number of movies and TV shows.
+
+**Running Time OF movies**
+
+• most of the movies have a duration of between 50 to 150.
+
+**Seasons of TV Shows**
+
+● Almost 68% of TV shows
+consist of a single season
+only.
+
+
