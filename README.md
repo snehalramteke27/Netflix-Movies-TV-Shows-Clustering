@@ -241,7 +241,7 @@ shows were added.
 4. The maximum number of movies and TV shows was either at the
 start of the month or mid of month.
 
- 5. The United States tops in the list of the maximum number of
+5. The United States tops in the list of the maximum number of
 movies and TV shows followed by India, the UK, and Japan.
 
 6. Maximum of the movies as well as TV shows are for matures only.
@@ -253,15 +253,15 @@ number of movies and TV shows.
 min.
 
 9. Almost 68% of TV shows consist of a single season only.
-10. 
-11. Top 3 genres are exactly the same for movies and TV
+ 
+10. Top 3 genres are exactly the same for movies and TV
 shows.
 
 11. Dramas genres hit all over the world.
-12. 
-13. 30% of movies and 50% of TV shows are Netflix Originals.
-14. 
-15. Clustering done by K-Means Clustering, found an optimal
+
+12. 30% of movies and 50% of TV shows are Netflix Originals.
+ 
+13. Clustering done by K-Means Clustering, found an optimal
 number of clusters equal to 25 with the highest Silhouette Score.
 
 14. Recommender system using cosine similarity performs well
