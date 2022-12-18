@@ -118,13 +118,16 @@ only.
 **Genre:**
 
 • Top 3 genres are exactly the same for movies and TV shows.
+
 • Dramas genres hit all over the world.
+
 • International Movies are the top most genre on Netflix which is filled with Dramas
 and comedies.
 
 **Netflix Original:**
 
 • 30% of movies released on Netflix as Netflix originals.
+
 • 50% of TV shows are originally from Netflix.
 
 # Data Pre-processing for Clustering-
@@ -132,6 +135,7 @@ and comedies.
 **1. Removing Punctuation:**
 
 • Punctuations do not carry any meaning clustering.
+
 • So, removing punctuations helps to get rid of unhelpful parts of
 the data, or noise.
 
@@ -139,6 +143,7 @@ the data, or noise.
 
 • Stop words are basically a set of commonly used words in any
 language, not just English.
+
 • If we remove the words that are very commonly used in a given
 language, we can focus on the important words instead.
 
@@ -146,6 +151,7 @@ language, we can focus on the important words instead.
 
 • Stemming is the process of removing a part of a word or
 reducing a word to its stem or root.
+
 • Applying stemming to reduce words to their basic form or
 stem, which may or may not be a legitimate word in the
 language.
@@ -159,7 +165,9 @@ subgroups where each data point belongs to only one group.
 **Vectorization:** 
 
 • Here we have textual data.
+
 • Clustering algorithms cannot understand textual data.
+
 • So, we use the vectorization technique to convert textual data
 to numerical vectors
 
@@ -167,6 +175,7 @@ to numerical vectors
 
 ● Recommender systems are systems that are designed to recommend
 things to the user based on many different factors.
+
 ● It finds out the match between the user and the item and imputes the
 similarities between users and items for recommendation.
 
