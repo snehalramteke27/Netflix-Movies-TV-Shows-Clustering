@@ -63,66 +63,66 @@ columns by name of the year, month, and day respectively
 
 # Exploratory Data Analysis - 
 
-**Movies vs TV shows**
+**Movies vs TV shows:**
 
 • Movies uploaded on Netflix are more than twice the TV Shows uploaded.
 • 30% of movies are released on Netflix.
 • 70% of movies added on Netflix were released earlier in a different mode.
 
-**On Year Basis**
+**On Year Basis:**
 
 • TV shows are increasing continuously
 • The number of releases significantly increased after 2015 and dropped in
 2021 because of Covid 19.
 
-**On Month Basis**
+**On Month Basis:**
 
 • From October to January, the maximum number of movies and TV
 shows were added.
 • Possible reason for that is, during this period of time events such 
 as Christmas, New Year and several holidays take place.
 
-**On Day Basis**
+**On Day Basis:**
 
 • Maximum number of movies and TV shows added at the start 
 of the month followed by mid of month.
 
-**Worldwide Presence**
+**Worldwide Presence:**
 
 • United States tops in the list of the maximum number of movies and TV
 shows, followed by India, the UK, and Japan.
 • 10th no. of the country is Turkey.
 
-**Ratings**
+**Ratings:**
 
 • Maximum of the movies as well as TV shows are for
 matures only.
 • we can observe that the most-rated movie on Netflix is TV-MA
 and the least-rated movie on Netflix is UR.
 
-**Cast**
+**Cast:**
 
 • Anupam Kher top of the list of casts having a maximum
 number of movies and TV shows.
 
-**Running Time OF movies**
+**Running Time OF movies:**
 
 • most of the movies have a duration of between 50 to 150.
 
-**Seasons of TV Shows**
+**Seasons of TV Shows:**
 
 ● Almost 68% of TV shows
 consist of a single season
 only.
 
-**Genre**
+**Genre:**
 
 • Top 3 genres are exactly the same for movies and TV shows.
 • Dramas genres hit all over the world.
 • International Movies are the top most genre on Netflix which is filled with Dramas
 and comedies.
 
-**Netflix Original**
+**Netflix Original:**
 
 • 30% of movies released on Netflix as Netflix originals.
 • 50% of TV shows are originally from Netflix.
@@ -180,26 +180,38 @@ between two vectors projected in a multi-dimensional space.
 
 1. Movies uploaded on Netflix are more than twice the TV Shows
 uploaded.
+
 ● 2. TV shows and movies are increasing continuously but in 2020
 there is a drop in the number of movies.
+
 ● 3. From October to January, a maximum number of movies and TV
 shows were added.
+
 ● 4. The maximum number of movies and TV shows was either at the
 start of the month or mid of month.
+
 ● 5. The United States tops in the list of the maximum number of
 movies and TV shows followed by India, the UK, and Japan.
+
 ● 6. Maximum of the movies as well as TV shows are for matures only.
 
 7. Anupam Kher top of the list of casts having a maximum
 number of movies and TV shows.
+
 8. Majority of movies have a running time of between 50 to 150
 min.
+
 9. Almost 68% of TV shows consist of a single season only.
-10. Top 3 genres are exactly the same for movies and TV
+10. 
+11. Top 3 genres are exactly the same for movies and TV
 shows.
+
 11. Dramas genres hit all over the world.
-12. 30% of movies and 50% of TV shows are Netflix Originals.
-13. Clustering done by K-Means Clustering, found an optimal
+12. 
+13. 30% of movies and 50% of TV shows are Netflix Originals.
+14. 
+15. Clustering done by K-Means Clustering, found an optimal
 number of clusters equal to 25 with the highest Silhouette Score.
+
 14. Recommender system using cosine similarity performs well
 on data.
