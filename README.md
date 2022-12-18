@@ -72,6 +72,7 @@ as to get integer datatype.
 
 
 **2. New Features:**
+
 • From the feature date_ added; extracted year, month, and day to form new
 columns by name of the year, month, and day respectively
 
@@ -231,19 +232,19 @@ between two vectors projected in a multi-dimensional space.
 1. Movies uploaded on Netflix are more than twice the TV Shows
 uploaded.
 
-● 2. TV shows and movies are increasing continuously but in 2020
+2. TV shows and movies are increasing continuously but in 2020
 there is a drop in the number of movies.
 
-● 3. From October to January, a maximum number of movies and TV
+3. From October to January, a maximum number of movies and TV
 shows were added.
 
-● 4. The maximum number of movies and TV shows was either at the
+4. The maximum number of movies and TV shows was either at the
 start of the month or mid of month.
 
-● 5. The United States tops in the list of the maximum number of
+ 5. The United States tops in the list of the maximum number of
 movies and TV shows followed by India, the UK, and Japan.
 
-● 6. Maximum of the movies as well as TV shows are for matures only.
+6. Maximum of the movies as well as TV shows are for matures only.
 
 7. Anupam Kher top of the list of casts having a maximum
 number of movies and TV shows.
