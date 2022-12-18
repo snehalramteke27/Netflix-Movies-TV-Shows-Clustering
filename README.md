@@ -57,6 +57,13 @@ workability on that data.
 • Duration is in a combination of integer values and text. Removing text part so
 as to get integer datatype.
 
-**2. New Features:
+**2. New Features:**
 • From the feature date_ added; extracted year, month, and day to form new
 columns by name of the year, month, and day respectively
+
+# Exploratory Data Analysis - 
+
+**Movies vs TV shows**
+• Movies uploaded on Netflix are more than twice the TV Shows uploaded.
+• 30% of movies are released on Netflix.
+• 70% of movies added on Netflix were released earlier in a different mode.
