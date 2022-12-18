@@ -175,7 +175,8 @@ similarities between users and items for recommendation.
 ● Cosine similarity is a metric that measures the cosine of the angle
 between two vectors projected in a multi-dimensional space.
 
-**# Conclusion**
+
+# Conclusion
 
 1. Movies uploaded on Netflix are more than twice the TV Shows
 uploaded.
