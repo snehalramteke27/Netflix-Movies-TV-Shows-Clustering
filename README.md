@@ -115,4 +115,90 @@ number of movies and TV shows.
 consist of a single season
 only.
 
+**Genre**
 
+• Top 3 genres are exactly the same for movies and TV shows.
+• Dramas genres hit all over the world.
+• International Movies are the top most genre on Netflix which is filled with Dramas
+and comedies.
+
+**Netflix Original**
+
+• 30% of movies released on Netflix as Netflix originals.
+• 50% of TV shows are originally from Netflix.
+
+# Data Pre-processing for Clustering-
+
+**1. Removing Punctuation:**
+
+• Punctuations do not carry any meaning clustering.
+• So, removing punctuations helps to get rid of unhelpful parts of
+the data, or noise.
+
+**2. Removing Stop words:**
+
+• Stop words are basically a set of commonly used words in any
+language, not just English.
+• If we remove the words that are very commonly used in a given
+language, we can focus on the important words instead.
+
+**3. Stemming:**
+
+• Stemming is the process of removing a part of a word or
+reducing a word to its stem or root.
+• Applying stemming to reduce words to their basic form or
+stem, which may or may not be a legitimate word in the
+language.
+
+# K – Means Clustering-
+
+K-means algorithm is an iterative algorithm that tries to partition
+the dataset into K pre-defined distinct non-overlapping
+subgroups where each data point belongs to only one group.
+
+**Vectorization:** 
+
+• Here we have textual data.
+• Clustering algorithms cannot understand textual data.
+• So, we use the vectorization technique to convert textual data
+to numerical vectors
+
+# Recommender System-
+
+● Recommender systems are systems that are designed to recommend
+things to the user based on many different factors.
+● It finds out the match between the user and the item and imputes the
+similarities between users and items for recommendation.
+
+**Cosine Similarity:**
+
+● Cosine similarity is a metric that measures the cosine of the angle
+between two vectors projected in a multi-dimensional space.
+
+**# Conclusion**
+
+1. Movies uploaded on Netflix are more than twice the TV Shows
+uploaded.
+● 2. TV shows and movies are increasing continuously but in 2020
+there is a drop in the number of movies.
+● 3. From October to January, a maximum number of movies and TV
+shows were added.
+● 4. The maximum number of movies and TV shows was either at the
+start of the month or mid of month.
+● 5. The United States tops in the list of the maximum number of
+movies and TV shows followed by India, the UK, and Japan.
+● 6. Maximum of the movies as well as TV shows are for matures only.
+
+7. Anupam Kher top of the list of casts having a maximum
+number of movies and TV shows.
+8. Majority of movies have a running time of between 50 to 150
+min.
+9. Almost 68% of TV shows consist of a single season only.
+10. Top 3 genres are exactly the same for movies and TV
+shows.
+11. Dramas genres hit all over the world.
+12. 30% of movies and 50% of TV shows are Netflix Originals.
+13. Clustering done by K-Means Clustering, found an optimal
+number of clusters equal to 25 with the highest Silhouette Score.
+14. Recommender system using cosine similarity performs well
+on data.
